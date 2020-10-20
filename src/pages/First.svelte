@@ -5,5 +5,5 @@
 <main>
   <Navigate to="/">First</Navigate>
   <Navigate to="/second">Second</Navigate>
-  <label>Hey</label>
+  <p>Hey</p>
 </main>
